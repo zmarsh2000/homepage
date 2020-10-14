@@ -14,7 +14,7 @@
       <nav class="col-sm-4">
         <p>Residential Properties</p>
         <p>Commercial Properties</p>
-        <p><a href="root/pages/aboutus.html">About Us</p>
+        <p><a href="root/pages/aboutus.md">About Us</p>
       </nav>
     </div>
   </header>
