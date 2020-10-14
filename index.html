@@ -14,7 +14,7 @@
       <nav class="col-sm-4">
         <p>Residential Properties</p>
         <p>Commercial Properties</p>
-        <p><a href="about.md">About Us</p>
+        <p><a href="zmarsh2000.github.io/about.md">About Us</p>
       </nav>
     </div>
   </header>
